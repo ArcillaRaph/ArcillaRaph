@@ -31,7 +31,7 @@
 ![React](https://img.shields.io/badge/React-60%25-orange?style=for-the-badge)  
 ![PHP](https://img.shields.io/badge/PHP-50%25-blueviolet?style=for-the-badge)  
 ![MySQL](https://img.shields.io/badge/MySQL-50%25-blue?style=for-the-badge)
-![Java](https://img.shields.io/badge/MySQL-80%25-blue?style=for-the-badge)
+![Java](https://img.shields.io/badge/Java-80%25-blue?style=for-the-badge)
 
 ---
 
