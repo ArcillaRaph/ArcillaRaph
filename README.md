@@ -28,9 +28,10 @@
 ![HTML](https://img.shields.io/badge/HTML-80%25-brightgreen?style=for-the-badge)  
 ![CSS](https://img.shields.io/badge/CSS-85%25-green?style=for-the-badge)  
 ![JavaScript](https://img.shields.io/badge/JavaScript-80%25-yellow?style=for-the-badge)  
-![React](https://img.shields.io/badge/React-70%25-orange?style=for-the-badge)  
-![Laravel/PHP](https://img.shields.io/badge/Laravel%2FPHP-75%25-blueviolet?style=for-the-badge)  
-![MySQL](https://img.shields.io/badge/MySQL-75%25-blue?style=for-the-badge)
+![React](https://img.shields.io/badge/React-60%25-orange?style=for-the-badge)  
+![PHP](https://img.shields.io/badge/PHP-50%25-blueviolet?style=for-the-badge)  
+![MySQL](https://img.shields.io/badge/MySQL-50%25-blue?style=for-the-badge)
+![Java](https://img.shields.io/badge/MySQL-80%25-blue?style=for-the-badge)
 
 ---
 
