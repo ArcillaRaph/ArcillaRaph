@@ -61,8 +61,9 @@
 
 ### :globe_with_meridians: Connect with Me
 <p align="left">
-  :e_mail: Email: <a href="mailto:arcillaraphfael76@gmail.com">arcillaraphfael76@gmail.com</a><br>
-  :mobile_phone: Contact: 09956356778
+📧 **Email:** [arcillaraphfael76@gmail.com](mailto:arcillaraphfael76@gmail.com)  
+📱 **Phone:** 0995-635-6778  
+🔗 **GitHub:** [github.com/ArcillaRaph](https://github.com/ArcillaRaph) 
 </p>
 
 ---
