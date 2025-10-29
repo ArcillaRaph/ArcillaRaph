@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hello World! I'm Raphfael Arcilla</h1>
+<h1 align="center">👋 Hello :wave: I'm Raphfael Arcilla</h1>
 <h3 align="center">💻 Aspiring IT Professional | 🌐 Web Developer | 🎨 UI/UX & Graphic Designer</h3>
 
 ---
