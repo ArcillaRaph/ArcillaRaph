@@ -23,7 +23,7 @@
 | Area | Skills |
 |------|--------|
 | **Frontend** | HTML, CSS, JavaScript, React, Bootstrap |
-| **Backend** | PHP (Laravel), MySQL |
+| **Backend** | PHP, MySQL |
 | **Design** | Figma, Adobe Photoshop, Adobe Illustrator, Canva |
 | **Version Control** | Git, GitHub |
 | **Soft Skills** | Collaboration, Problem-Solving, Creativity, Adaptability |
