@@ -50,25 +50,25 @@
 
 ### :brain: Soft Skills
 - :tools: Troubleshooting - :person_standing: Team Collaboration  - :clock3: Time Management  
-- :seedling: Willing to learn  - :muscle: Work Ethic  - :compass: Adaptability - 
+- :seedling: Willing to learn  - :muscle: Work Ethic  - :compass: Adaptability 
 
 ---
 
 ### :bar_chart: GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=alastairferrer&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+  <!-- <img src="https://github-readme-stats.vercel.app/api?username=alastairferrer&show_icons=true&theme=tokyonight" alt="GitHub Stats" /> -->
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=alastairferrer&theme=tokyonight" alt="Streak Stats" />
+  <!-- <img src="https://github-readme-streak-stats.herokuapp.com/?user=alastairferrer&theme=tokyonight" alt="Streak Stats" /> -->
 </p>
 
 ---
 
 ### :globe_with_meridians: Connect with Me
 <p align="left">
-  :e_mail: Email: <a href="mailto:alastair792@gmail.com">alastair792@gmail.com</a><br>
-  :mobile_phone: Contact: 0935-609-4847
+  :e_mail: Email: <a href="mailto:arcillaraphfael76@gmail.com">arcillaraphfael76@gmail.com</a><br>
+  :mobile_phone: Contact: 09956356778
 </p>
 
 ---
