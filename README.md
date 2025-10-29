@@ -36,8 +36,7 @@
 ---
 
 ### :chart_with_upwards_trend: Top Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alastairferrer&layout=compact&theme=tokyonight)
-
+/\
 ---
 
 ### :briefcase: Experience
