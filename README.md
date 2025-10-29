@@ -44,20 +44,14 @@
 
 **Intern — Creative Bananas** *(Feb 2024 – Apr 2025)*  
 - Designed UI/UX wireframes and prototypes in Figma  
-- Developed and maintained websites using **WordPress**, **HTML**, **CSS**, and **Bootstrap**  
-- Assisted in front-end development and debugging tasks  
-
-**Capstone Project — Faculty Submittals Monitoring System (2024–2025)**  
-- Built a **web-based system** for managing faculty document submittals  
-- Added features for **tracking status**, **approval workflows**, and **reminders**  
-- Focused on accessibility for non-technical users  
-- Used **Laravel**, **React**, and **SQL** for a reliable, scalable solution
+- Developed graphic design using **Figma**, **ADOVE PHOTOSHOP**, **ADOVE ILLUSTRATOR**, and **CANVA**  
+- Make many design in social media post, carousel, flyers, etc.  
 
 ---
 
 ### :brain: Soft Skills
-- :tools: Troubleshooting  - :person_standing: Team Collaboration  - :clock3: Time Management  
-- :seedling: Continuous Learning  - :muscle: Work Ethic  - :compass: Adaptability
+- :tools: Troubleshooting - :person_standing: Team Collaboration  - :clock3: Time Management  
+- :seedling: Willing to learn  - :muscle: Work Ethic  - :compass: Adaptability - 
 
 ---
 
